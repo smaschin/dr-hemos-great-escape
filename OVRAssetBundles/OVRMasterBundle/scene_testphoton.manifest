@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 4136323064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e31bf2161a755055a69eab2ae2d8395
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 91270e64b73c3840480007df152721a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 166be48fb0013ce4aa2137065bf2606c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 778b679048ccef54e812bda1ea98f28b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/TestPhoton.unity
+Dependencies: []

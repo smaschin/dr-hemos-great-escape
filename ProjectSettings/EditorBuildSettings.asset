@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: a507b9433591a594895ab00dcd3a03a4
+  - enabled: 1
+    path: Assets/Scenes/ConnectToServer.unity
+    guid: fdc897b90b280d14886f34f350dbe16c
+  - enabled: 1
+    path: Assets/Scenes/RoomSelection.unity
+    guid: f286b8fda1fdc0746bac4114e9582aa1
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 533cf25eb058f7a45b2a659967aa8893
+  - enabled: 1
+    path: Assets/Scenes/SecondFloor.unity
+    guid: b211ffd58852ebc4584f666271cc2f3d
+  - enabled: 1
+    path: Assets/Scenes/CafeteriaPuzzles.unity
+    guid: 5f7247a7001905146a737926f6038b70
+  - enabled: 1
+    path: Assets/Scenes/LibraryPuzzles.unity
+    guid: f543e5958a83ae24ab0e451845f2dfde
+  - enabled: 1
+    path: Assets/Scenes/MicroscopyLab.unity
+    guid: a938e74b48917844dbd107bb7c6cd5ea
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122,
+      type: 2}

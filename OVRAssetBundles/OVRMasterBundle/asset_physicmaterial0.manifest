@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2454085466
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80bce0b74b32f49fa177988e047634b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f4d58da2e394c3ac790f4c422276af4f
+HashAppended: 0
+ClassTypes:
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/DistanceGrab/PhysicsMaterials/RubberPhysMat.physicMaterial
+Dependencies: []

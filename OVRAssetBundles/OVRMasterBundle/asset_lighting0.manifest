@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 10429820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ccb465e80efd7d1e59f3f4885fa3087
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a124a79f3cd96c32e82437ed953faa0
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Usage/LocomotionSettings.lighting
+Dependencies: []

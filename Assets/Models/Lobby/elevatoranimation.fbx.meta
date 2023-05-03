@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 05a4f5a8e208ed447a4aeff3c65c2fdd
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 5827328551488451595
+    second: LeftOutsideDoor|Animation_ElevatorCallingButtons.006
+  - first:
+      74: 4251915115899224355
+    second: LeftOutsideDoor|Animation_ElevatorCallingButtons.007
+  - first:
+      74: 3083722288186201359
+    second: LeftOutsideDoor|Animation_LeftInteriorDoor
+  - first:
+      74: 1361859933996596277
+    second: LeftOutsideDoor|Animation_LeftOutsideDoor
+  - first:
+      74: -640094430148328815
+    second: LeftOutsideDoor|Animation_RightInteriorDoor
+  - first:
+      74: 3192532708035237215
+    second: LeftOutsideDoor|Animation_RightOutsideDoor
+  - first:
+      74: 2314913522581223536
+    second: RightOutsideDoor|Animation_ElevatorCallingButtons.006
+  - first:
+      74: 6349292101447495460
+    second: RightOutsideDoor|Animation_ElevatorCallingButtons.007
+  - first:
+      74: -6623065168725736692
+    second: RightOutsideDoor|Animation_LeftInteriorDoor
+  - first:
+      74: 8011178161068583494
+    second: RightOutsideDoor|Animation_LeftOutsideDoor
+  - first:
+      74: -2623486204183739641
+    second: RightOutsideDoor|Animation_RightInteriorDoor
+  - first:
+      74: 6347832216657063963
+    second: RightOutsideDoor|Animation_RightOutsideDoor
+  - first:
+      74: -5482610203209967481
+    second: LeftInteriorDoor|Animation_ElevatorCallingButtons.006
+  - first:
+      74: 5507719169001455109
+    second: LeftInteriorDoor|Animation_ElevatorCallingButtons.007
+  - first:
+      74: 6856237402280072911
+    second: LeftInteriorDoor|Animation_LeftInteriorDoor
+  - first:
+      74: 5775684208299547410
+    second: LeftInteriorDoor|Animation_LeftOutsideDoor
+  - first:
+      74: 3475155022890216164
+    second: LeftInteriorDoor|Animation_RightInteriorDoor
+  - first:
+      74: 3722532318915257504
+    second: LeftInteriorDoor|Animation_RightOutsideDoor
+  - first:
+      74: -3839594317609849702
+    second: RightInteriorDoor|Animation_ElevatorCallingButtons.006
+  - first:
+      74: -7253333650996383160
+    second: RightInteriorDoor|Animation_ElevatorCallingButtons.007
+  - first:
+      74: -4598368117802261649
+    second: RightInteriorDoor|Animation_LeftInteriorDoor
+  - first:
+      74: -6627761501966363786
+    second: RightInteriorDoor|Animation_LeftOutsideDoor
+  - first:
+      74: 2306226623070646880
+    second: RightInteriorDoor|Animation_RightInteriorDoor
+  - first:
+      74: 4182562694960886490
+    second: RightInteriorDoor|Animation_RightOutsideDoor
+  - first:
+      74: 3424357550348783207
+    second: ElevatorCallingButtons.007|Animation_ElevatorCallingButtons.006
+  - first:
+      74: -5960039347195555661
+    second: ElevatorCallingButtons.007|Animation_ElevatorCallingButtons.007
+  - first:
+      74: 5147096716373903648
+    second: ElevatorCallingButtons.007|Animation_LeftInteriorDoor
+  - first:
+      74: 5782024017043101912
+    second: ElevatorCallingButtons.007|Animation_LeftOutsideDoor
+  - first:
+      74: 5072422177747812062
+    second: ElevatorCallingButtons.007|Animation_RightInteriorDoor
+  - first:
+      74: -2135273073865015140
+    second: ElevatorCallingButtons.007|Animation_RightOutsideDoor
+  - first:
+      74: -2810782884827981301
+    second: ElevatorCallingButtons.006|Animation_ElevatorCallingButtons.006
+  - first:
+      74: -476756872658017959
+    second: ElevatorCallingButtons.006|Animation_ElevatorCallingButtons.007
+  - first:
+      74: 7135039463366777593
+    second: ElevatorCallingButtons.006|Animation_LeftInteriorDoor
+  - first:
+      74: 4389060861794749847
+    second: ElevatorCallingButtons.006|Animation_LeftOutsideDoor
+  - first:
+      74: 3508763488352520738
+    second: ElevatorCallingButtons.006|Animation_RightInteriorDoor
+  - first:
+      74: -3874417126327510567
+    second: ElevatorCallingButtons.006|Animation_RightOutsideDoor
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
